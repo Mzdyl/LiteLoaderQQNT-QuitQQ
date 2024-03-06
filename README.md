@@ -1,8 +1,17 @@
-# window-on-top
+# Window-Quit
 
-LiteLoaderQQNT 插件，让窗口有置顶功能
+LiteLoaderQQNT 插件，给窗口添加退出程序按钮
 
+## TODO
+
+- 添加设置功能
+- 添加替换原有退出按钮功能
+- 添加自定义按钮功能
 
 ## 使用方法
 
 clone 或下载 zip 文件解压，将文件夹移动至 `plugins` 文件夹下面，重启 QQNT 即可
+
+### 无用的碎碎念
+
+天知道为什么需要这个功能，在 mac 上玩 Remote APP，关闭窗口会将 QQ 后台运行至系统托盘，导致无法二次唤醒和重新登录，所以写了个插件暴力解决

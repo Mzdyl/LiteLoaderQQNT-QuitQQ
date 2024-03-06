@@ -1,7 +1,7 @@
 {
     "manifest_version": 4,
     "type": "extension",
-    "name": "窗口关闭",
+    "name": "程序退出",
     "slug": "window_quit",
     "description": "改关闭按钮为退出",
     "version": "0.0.1",
